@@ -2,6 +2,8 @@
 *& Include ZAVTMMD_DETERMINA_MSG
 *&---------------------------------------------------------------------*
 
+teste lucas
+
 *IF sy-uname = 'NCOELHO'.
 *** Declaração de Types Local
 TYPES: BEGIN OF ty_texto,
